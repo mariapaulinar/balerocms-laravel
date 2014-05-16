@@ -1,4 +1,8 @@
-balerocms-laravel
+Balero CMS Laravel
 =================
 
-Balero CMS under Laravel Framwork
+Proyecto mexicano de Balero CMS construido en el framework laravel.
+
+================
+Repo: git@github.com:BaleroCMS/balerocms-laravel.git
+Sitio: balerocms.com
